@@ -1,0 +1,6 @@
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  windows: true
+  image_path: "assets/icons/ic_launcher.png"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597228862194",
+    "project_id": "trackerapp-bd511",
+    "storage_bucket": "trackerapp-bd511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597228862194:android:22dc05871b9af39d246e6b",
+        "android_client_info": {
+          "package_name": "com.example.keep_books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597228862194-u422m5512e2jrhht4pmtrolpebs3gths.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3DJlBLGqqr0-SfbVZL3Kx7T4c4NKD6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597228862194-u422m5512e2jrhht4pmtrolpebs3gths.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
